@@ -31,10 +31,9 @@
 
 # Como Executa o Projeto
 
-- Sistema calcule sua parcela
+- Sistema calculadora
 -Obs: Dentro a Pasta Obj/Debug, tem o programa executavel 
  
-
 # Autor
 
 - Jonas Valereo - Técnico em Informática
